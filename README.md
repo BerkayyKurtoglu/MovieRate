@@ -1,2 +1,2 @@
 # MovieRate
-README FİLE 
+README FILE 
